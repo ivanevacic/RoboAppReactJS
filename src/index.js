@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Card from './Card';
 import registerServiceWorker from './registerServiceWorker';
+import 'tachyons' //  Imported 'tachyons CSS'
 
 ReactDOM.render(
                 <div>
